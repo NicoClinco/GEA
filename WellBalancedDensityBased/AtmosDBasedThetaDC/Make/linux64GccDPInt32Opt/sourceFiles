@@ -1,0 +1,7 @@
+SOURCE = \
+dbnsFlux/hllcThetaFlux/hllcThetaFlux.C\
+dbnsFlux/hllcAusmThetaFlux/hllcAusmThetaFlux.C\
+dbnsFlux/AusmUPthetaFlux/AusmThetaFlux.C\
+basicNumericFlux/basicNumericFlux.C\
+basicNumericFlux/newBasicNumericFlux.C\
+numericFlux/numericFluxes.C

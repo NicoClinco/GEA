@@ -1,0 +1,7 @@
+LOCAL_OBJECTS = \
+hllcThetaFlux.o\
+hllcAusmThetaFlux.o\
+AusmThetaFlux.o\
+basicNumericFlux.o\
+newBasicNumericFlux.o\
+numericFluxes.o

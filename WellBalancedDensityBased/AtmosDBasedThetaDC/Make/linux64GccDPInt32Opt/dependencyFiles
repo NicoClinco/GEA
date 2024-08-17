@@ -1,0 +1,7 @@
+DEPENDENCIES = \
+dbnsFlux/hllcThetaFlux/hllcThetaFlux.dep\
+dbnsFlux/hllcAusmThetaFlux/hllcAusmThetaFlux.dep\
+dbnsFlux/AusmUPthetaFlux/AusmThetaFlux.dep\
+basicNumericFlux/basicNumericFlux.dep\
+basicNumericFlux/newBasicNumericFlux.dep\
+numericFlux/numericFluxes.dep

@@ -1,0 +1,6 @@
+include dbnsFlux/hllcThetaFlux/hllcThetaFlux.dep
+include dbnsFlux/hllcAusmThetaFlux/hllcAusmThetaFlux.dep
+include dbnsFlux/AusmUPthetaFlux/AusmThetaFlux.dep
+include basicNumericFlux/basicNumericFlux.dep
+include basicNumericFlux/newBasicNumericFlux.dep
+include numericFlux/numericFluxes.dep

@@ -1,0 +1,7 @@
+OBJECTS = \
+$(OBJECTS_DIR)/hllcThetaFlux.o\
+$(OBJECTS_DIR)/hllcAusmThetaFlux.o\
+$(OBJECTS_DIR)/AusmThetaFlux.o\
+$(OBJECTS_DIR)/basicNumericFlux.o\
+$(OBJECTS_DIR)/newBasicNumericFlux.o\
+$(OBJECTS_DIR)/numericFluxes.o
